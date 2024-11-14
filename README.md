@@ -57,9 +57,9 @@
 <div align="left">
   <img src="./imagens/langchain.png" height="40" alt="langchain logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
 </div>
 
 
