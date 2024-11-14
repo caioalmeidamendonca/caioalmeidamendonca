@@ -55,7 +55,7 @@
 ###
 
 <div align="left">
-  <img src="./imagens/langchain.png" height="30" alt="langchain logo" />
+  <img src="./imagens/langchain.png" height="40" alt="langchain logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="10" />
